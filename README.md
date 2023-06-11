@@ -1,5 +1,5 @@
 # Bitacora
-Bitacora is a simple way to keep track of how I, and maybe you to, spend time working on projects. And also a experiment to learn new stuff by building. It's goin to be a server side rendered app powered by PostgreSQL. Bitácora, in Spanish, is the box where they keep the compass while on the sea.
+Bitacora is a simple way to keep track of how I, and maybe you to, spend time working on projects. And also a experiment to learn new stuff by building. It's going to be a server side rendered app powered by PostgreSQL. Bitácora, in Spanish, is the box where they keep the compass while on the sea.
 
 
 ## Features
